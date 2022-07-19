@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @av-kutergin (Alex)
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Django, Jinja2, Vue,
-- 💞️ I’m looking to collaborate on ... nothing in particcular, but always open to new possibilities
+- 💞️ I’m looking to collaborate on ... anything that will let me deepen my knowledge
 - 📫 How to reach me ... https://t.me/JackThe_H
 
 <!---

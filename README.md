@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @av-kutergin (Alex)
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Django, Jinja2, Vue,
+- 🌱 I’m currently learning Django, DRF, Postman, Docker, Async
 - 💞️ I’m looking to collaborate on ... anything that will let me deepen my knowledge
 - 📫 How to reach me ... https://t.me/JackThe_H
 
